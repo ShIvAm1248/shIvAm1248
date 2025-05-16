@@ -1,9 +1,4 @@
-
-
-
-
-
-- 🔭 I’m currently working on ...<h1 align="center">Hi 👋, I'm Shivam Thakur</h1>
+<h1 align="center">Hi 👋, I'm Shivam Thakur</h1>
 <h3 align="center">A passionate Frontend Developer & Full-Stack Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -12,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=ShIvAm1248&label=Profile%20views&color=0e75b6&style=flat" alt="ShIvAm1248" />
 </p>
 
----
 
 ### 👨‍💻 About Me
 
@@ -28,7 +22,7 @@
 ### 📬 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jatin-garg-620951250/" target="blank">
+  <a href="https://www.linkedin.com/in/shivam-thakur-5ab584216/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamthakur" height="30" width="40" />
   </a>
   <a href="https://instagram.com/thakurshivam22" target="blank">
@@ -90,11 +84,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shIvAm1248&show_icons=true&locale=en" alt="shIvAm1248" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shIvAm1248&" alt="shIvAm1248" /></p>
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
