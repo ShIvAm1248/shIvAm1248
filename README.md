@@ -1,17 +1,15 @@
-## Hi there 👋
 
-<!--
-**ShIvAm1248/shIvAm1248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...<h1 align="center">Hi 👋, I'm Jatin Garg</h1>
+
+
+- 🔭 I’m currently working on ...<h1 align="center">Hi 👋, I'm Shivam Thakur</h1>
 <h3 align="center">A passionate Frontend Developer & Full-Stack Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jatingrg&label=Profile%20views&color=0e75b6&style=flat" alt="jatingrg" />
+  <img src="https://komarev.com/ghpvc/?username=ShIvAm1248&label=Profile%20views&color=0e75b6&style=flat" alt="ShIvAm1248" />
 </p>
 
 ---
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **JavaScript, React.js, Node.js, Firebase, and MongoDB**
 - 🛠️ I love building web applications with dynamic UIs and real-time features
 - 🎨 I also enjoy working on **UI/UX design** and prototyping in **Figma**
-- 📫 Reach me at **jatingarg94786@gmail.com**
+- 📫 Reach me at **shivam.thakr77@gmail.com**
 
 ---
 
@@ -31,10 +29,10 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jatin-garg-620951250/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatingarg" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamthakur" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/jatingarg81" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatingarg81" height="30" width="40" />
+  <a href="https://instagram.com/thakurshivam22" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakurshivam22" height="30" width="40" />
   </a>
 </p>
 
@@ -79,7 +77,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jatingrg&theme=onedark" alt="jatingrg" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shIvAm1248&theme=onedark" alt="shIvAm1248" />
   </a>
 </p>
 
@@ -87,11 +85,11 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingrg&show_icons=true&locale=en&layout=compact" alt="jatingrg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shIvAm1248&show_icons=true&locale=en&layout=compact" alt="shIvAm1248" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatingrg&show_icons=true&locale=en" alt="jatingrg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shIvAm1248&show_icons=true&locale=en" alt="shIvAm1248" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatingrg&" alt="jatingrg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shIvAm1248&" alt="shIvAm1248" /></p>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
